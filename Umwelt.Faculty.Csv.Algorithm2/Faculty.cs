@@ -19,7 +19,6 @@ namespace Umwelt.Faculty.Csv.Algorithm2
         public async Task ExecuteAsync()
         {
             // ここにアルゴリズムの処理を書きます。
-            Console.WriteLine("something");
         }
     }
 }

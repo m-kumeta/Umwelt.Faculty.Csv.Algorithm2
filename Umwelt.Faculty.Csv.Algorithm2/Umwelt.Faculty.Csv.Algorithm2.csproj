@@ -20,6 +20,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\Umwelt.Faculty.FacultyBase\Umwelt.Faculty.FacultyBase\Umwelt.Faculty.FacultyBase.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Update="incar.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>

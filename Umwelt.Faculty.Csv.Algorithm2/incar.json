@@ -1,0 +1,18 @@
+[
+    {
+        "name": "InputPath",
+        "display_name": "入力ファイルのパス",
+        "is_string": true,
+        "form": {
+            "type": "free"
+        }
+    },
+    {
+        "name": "OutputPath",
+        "display_name": "出力ファイルのパス",
+        "is_string": true,
+        "form": {
+            "type": "free"
+        }
+    }
+]
